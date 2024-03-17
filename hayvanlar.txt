@@ -1,262 +1,162 @@
-Kedi
-Köpek
-At
-İnek
-Koyun
-Keçi
-Kaplan
-Eşek
-Tavşan
-Fare
-Sincap
-Kirpi
-Yabantavşanı
-Yunus
-Goril
-Maymun
-Mamut
-Şempanze
-Ayı
-Kurt
-Tilki
-Tavuk
-Rakun
-Porsuk
-Yabanidomuz
-Susamuru
-Gelincik
-Susamuru
-Sırtlan
-Hipopotam
-Kanguru
-Puma
-Zebra
-Gergedan
-Fil
-Manda
-Deve
-Karaca
-Yabankeçisi
-Suaygırı
-Kayasansarı
-Bozayı
-Yarasa
-Kaplumbağa
-Kertenkele
-Yılan
-Karınca
-Arı
-Kelebek
-Hamamböceği
-Sivrisinek
-Karasinek
-Arısineği
-Uğurböceği
-Çekirge
-Örümcek
+Ahtapot
 Akrep
-Yengeç
-Karides
-İstiridye
-Midye
-Kalamar
-Ahtapot
-Balina
-Köpekbalığı
-Yunusbalığı
-Kılıçbalığı
-Kırlangıçbalığı
-Turnabalığı
 Alabalık
-Levrek
-Sardalya
-Hamsi
-Istakoz
-Kayabalığı
-Kertenkelebalığı
-Sazan
-Yılanbalığı
-Horseshoecrab
-Yassıbalık
-Mercan
-Denizanası
-Deniztavşanı
-Jelibonbalığı
-Suanası
-Çamurcun
-Lepistesbalığı
-Baykuş
-Şahin
-Kartal
-Leylek
-Sığırkuşu
-Turna
 Alakarga
-Bıldırcın
-Toygar
-Atmaca
-Şahmeran
-Bayağıtavşan
-Tarlafaresi
-Susamuru
-Anadoludomuzu
-Kurtköpeği
-Tunabalığı
-Orfozbalığı
-Kefalbalığı
-Karagözbalığı
-Mezgitbalığı
-Mezgit
-Palamutbalığı
-Kalkanbalığı
-Tırmanıcık
-Kovukçu
-Samur
-Sansar
-Bozkurt
-Bayağıkurt
-İzmarit
-Çipurabalığı
-Sinaritbalığı
-Hanibalığı
-Batakkuşu
-Balabankuşu
-Bıyıklıbalıkçıl
-Gribalıkçıl
-Sazanbalığı
-Kerevit
-Yelkovanbalığı
-Çizgiliyılanbalığı
-Zehirliyılanbalığı
-Sivriburunbalığı
-Tüylübalık
-Eğreltiotuçekirgesi
-Kırlangıççalısıçekirgesi
-Örümcekböceği
-Supiresi
-Tatlısuyengeci
-Subuğdayı
-Karabuğday
-Kaplumbağaçayırıböceği
-Çayırçekirgesi
-Çamkozalağıböceği
-Sarıçamböceği
-Sarıörümcek
-Yeşilörümcek
-Karaörümcek
-Devörümcek
-Yaprakbiti
-Kirpiklikulağasahipböcek
-Yelkovankanadıböceği
-Salyangoz
-Yarasakulağı
-Kırlangıçkuyruğu
-Mavikanatlısinek
-Kırmızıkelebek
-Cıvılcıvılböcek
-Ağaççekirgesi
-Zehirliörümcek
-Ormankarıncası
-Ormansalyangozu
-Kırmızıkarınca
-Acımasızörümcek
-Salyangozyılanı
-Büyükkırmızısinek
-Tırtıl
-Yabanarısı
-Sivrisinek
-Suçekirgesi
-Tatlısuyılanı
-Tilkiböceği
-Tavukböceği
-Şahinböceği
-Narval
-Karakızılsinek
-Bıyıklıkırlangıç
-Uzunboynuzluböcek
-Kırmızıörümcek
-Uzunbacaklıböcek
-Örümcekağıörmeböcek
-Patlıcanböceği
-Tarlakarıncası
-Bıyıklısalyangoz
-Kırmızıuçanböcek
-Maviuçanböcek
-Gökmavisisinek
-Kırmızıkarıncalıörümcek
-Yeşilbacaklıböcek
-Kırmızıgözlüsinek
-Siyahkanatlıböcek
-Yeşilçimböceği
-Sarırenkliörümcek
-Sarıkarınca
-Sarıtimsahböceği
-Karadulböceği
-İpekböceği
-Büyükkarasinek
-Koyuyeşilböcek
-Dikenliyılan
-Yapraktırtılı
-Yeşilyaprakböceği
-Kırmızıbeneklisalyangoz
-Siyahçekirge
-Kırmızıkelebek
-Karakelebek
-Kırmızıbaşlıörümcek
-Sarıyüzgeçlisalyangoz
-Sarıpüsküllüböcek
-Siyahkırkayak
-Kırmızıbacaklıçekirge
-Yeşilmantarböceği
-Kırmızıçizgiliyusufçuk
-Uzunantenliböcek
-Yeşilbaşlısinek
-Sivrisinek
-Yılan
-Kurt
-Böcek
-Karınca
-Örümcek
-Sinek
+Anadolu domuzu
 Arı
-Eşekarısı
-Hamamböceği
-Kınkanatlıböcek
-Kurbağa
-Kaplumbağa
-Yarasa
-Porsuk
-Susamuru
-Köpekbalığı
-Kedibalığı
-Vatozbalığı
-İstiridye
-Yengeç
-Karides
-Midye
-Mürekkepbalığı
-Ahtapot
-Denizanası
-Mercan
-Kummidyesi
-Denizsalyangozu
-Istakoz
-Çizgilisırtlıyılanbalığı
-Suyılanı
-Sazanbalığı
-Levrekbalığı
-Uskumrubalığı
-Palamutbalığı
-Hamsibalığı
-Kalkanbalığı
-Kefalbalığı
-Kılıçbalığı
-Lüferbalığı
-Sardalyabalığı
-Tonbalığı
-Yılanbalığı
-Sibiryakaplanı
+Arısineği
 Aslan
+At
+Atmaca
+Ayı
+Balina
+Bala bankuşu
+Baykuş
+Bayağı kurt
+Bıldırcın
+Bıyıklı balıkçıl
+Böcek
+Boz ayı
+Bozkurt
+Çam kozalağı böceği
+Çamurcun
+Çayır çekirgesi
+Çekirge
+Çipura balığı
+Çizgili yılan balığı
+Deve
+Dikenli yılan
+Eğrelti otu çekirgesi
+Eşek
+Eşek arısı
 Fil
+Flamingo
+Gelincik
 Gergedan
+Goril
+Gri balıkçıl
+Hamam böceği
+Hamsi
+Hani balığı
+Hipopotam
+Istakoz
+İstiridye
+İpek böceği
+İzmarit
+Japon balığı
+Jelibon balığı
+Kalkan balığı
+Kanguru
+Kaplan
+Kaplumbağa
+Kaplumbağa çayırı böceği
+Kara buğday
+Kara sinek
+Karaca
+Karadul
+Karagöz balığı
+Karınca
+Karides
+Karasinek
+Kartal
+Kaya balığı
+Kaya sansarı
+Kefal balığı
+Kelebek
+Kertenkele
+Kertenkele balığı
+Kılıç balığı
+Kirpi
+Koala
+Kovukçu
+Koyu yeşil böcek
+Koyun
+Köpek
+Köpek balığı
+Kraliçe arısı
+Kum midyesi
+Kurt
+Kurt köpeği
+Kurbağa
+Kuş
+Levrek
+Lüfer balığı
+Mamut
+Manda
+Maymun
+Mezgit balığı
+Midye
+Mürekkep balığı
+Narval
+Orfoz balığı
+Örümcek
+Örümcek böceği
+Palamut balığı
+Panda
+Penguen
+Porsuk
+Puma
+Rakun
+Salyangoz
+Salyangoz yılanı
+Sardalya
+Sarı çam böceği
+Sazan
+Sibirya kaplanı
+Sincap
+Sinarit balığı
+Sinek
+Sivriburun balığı
+Sivrisinek
+Suphi reisi
+Su anası
+Su aygırı
+Su buğdayı
+Su çekirgesi
+Su samuru
+Suları balığı
+Şahin
+Şahin böceği
+Şahmeran
+Şempanze
+Sığır kuşu
+Siyah çekirge
+Tapir
+Tarla faresi
+Tatlı su yengeci
+Tatlı su yılanı
+Tavuk
+Tavuk böceği
+Tavşan
+Tilki
+Tilki böceği
+Tırmanıcık
+Tırtıl
+Ton balığı
+Toygar
+Tuna balığı
+Turna
+Turna balığı
+Uskumru balığı
+Uğur böceği
+Vaşak
+Vatoz balığı
+Yaban arısı
+Yaban domuzu
+Yaban keçisi
+Yaban tavşanı
+Yarasa
+Yarasa kulağı
+Yassı balık
+Yelkovan balığı
+Yengeç
+Yılan
+Yılan balığı
+Yıldız
+Yosun
+Yunus
+Yunus balığı
+Zebra
+Zehirli örümcek
+Zehirli yılan balığı
 Zürafa
